@@ -1,0 +1,6 @@
+__pycache__/
+*.mp3
+*.zip
+temp_audio_*
+ffmpeg-8.0.1-essentials_build/
+.ipynb_checkpoints/
