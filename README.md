@@ -46,6 +46,10 @@ A web-based interface that processes mashup requests and delivers the final outp
 2. Run the server: python Program-2-Web-App/Mashup-Web-App.py
 3. Open: http://127.0.0.1:5000
 
+## 🌐 Live Web Service
+# You can access the live application here: https://mashup-web-app-mi8y.onrender.com
+# (Note: If the link is slow to load, the server is "waking up" from its sleep state.)
+
 ---
 
 ## 🛠️ Installation & Setup
