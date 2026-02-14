@@ -7,7 +7,7 @@ This repository contains a two-part solution developed for the Predictive Analyt
 ## 👤 Author Details
 * **Name**: Raj Fatehveer Singh Brar
 * **Roll Number**: 102317090
-  
+
 ---
 
 ## 📂 Project Structure
@@ -46,9 +46,11 @@ A web-based interface that processes mashup requests and delivers the final outp
 2. Run the server: python Program-2-Web-App/Mashup-Web-App.py
 3. Open: http://127.0.0.1:5000
 
-## 🌐 Live Web Service
-# You can access the live application here: https://mashup-web-app-mi8y.onrender.com
-# (Note: If the link is slow to load, the server is "waking up" from its sleep state.)
+### Live Deployment
+The web service is deployed live on Render. You can access it here:
+**[https://mashup-web-app-mi8y.onrender.com](https://mashup-web-app-mi8y.onrender.com)**
+
+*(Note: The service is hosted on a free tier. If the link takes time to load, please allow up to 60 seconds for the server to wake up.)*
 
 ---
 
